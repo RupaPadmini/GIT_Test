@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FC0C-EAB1
+
+ Directory of C:\Users\ravik\Desktop\Project_on_GIT
+
+2022-10-26  08:15 PM    <DIR>          .
+2022-10-26  08:15 PM    <DIR>          ..
+2022-10-26  08:15 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  368,435,179,520 bytes free
